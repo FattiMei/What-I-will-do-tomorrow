@@ -17,7 +17,7 @@ In particular the classic computer science problems and programs, and all I need
 I want to follow the categories to build a mental structure. 
 
 # A list of classic problems in computer science
-sieverything.blogspot.com/2012/03/list-of-classic-problems-in-computer.html
+https://sieverything.blogspot.com/2012/03/list-of-classic-problems-in-computer.html
 There aren't explanations for each problem although.
 
 # Mathematics
